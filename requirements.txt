@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+scipy
+scikit-learn
+pickle-mixin
+flask
+flask-restful
+psycopg2
+statsmodels
+python-dotenv
+loguru

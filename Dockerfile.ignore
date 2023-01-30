@@ -1,0 +1,9 @@
+**/.git
+**/.gitignore
+**/coverage
+**/.env
+**/.aws
+**/.ssh
+Dockerfile
+**/venv
+**/env
